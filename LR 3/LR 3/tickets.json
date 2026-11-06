@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "EventId": 1,
+    "Category": 0,
+    "Price": 450,
+    "AvailableSeats": 40
+  }
+]

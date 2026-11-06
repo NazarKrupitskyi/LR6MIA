@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "EventId": 1,
+    "TierId": 1,
+    "customer_email": "nazarkrupickij@gmail.com",
+    "customer_phone": "\u002B380685168741",
+    "RequestedSeats": 3,
+    "PromoCode": "\u0421\u0442\u0443\u0434\u0435\u043D\u0442",
+    "status": 3,
+    "CreateTime": "2026-10-16T07:21:28.3617543Z",
+    "TotalAmount": 1144.631250,
+    "RefundAmount": 1144.631250,
+    "Tickets": [
+      {
+        "Barcode": "8599",
+        "IsValid": false
+      },
+      {
+        "Barcode": "1856",
+        "IsValid": false
+      },
+      {
+        "Barcode": "9947",
+        "IsValid": false
+      }
+    ]
+  }
+]
