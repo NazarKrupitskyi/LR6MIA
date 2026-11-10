@@ -7,9 +7,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: './LR 3'
 
     steps:
       - name: Checkout repo
@@ -26,7 +23,7 @@ jobs:
       - name: Build
         run: dotnet build --configuration Release --no-restore
 
-      - name: Run tests
+      - name: Run tests # Доданий крок для запуску тестів
         run: dotnet test --configuration Release --no-build --verbosity normal
 
       - name: Install Railway CLI
