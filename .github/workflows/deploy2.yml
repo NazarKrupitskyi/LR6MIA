@@ -7,6 +7,12 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    
+    # Це єдине, що потрібно додати. 
+    # Всі наступні команди автоматично виконуватимуться всередині папки LR 3
+    defaults:
+      run:
+        working-directory: './LR 3'
 
     steps:
       - name: Checkout repo
@@ -18,10 +24,10 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore dependencies 
-        run: find . -name "*.csproj" -exec dotnet restore "{}" \;
+        run: dotnet restore
 
       - name: Build 
-        run: find . -name "*.csproj" -exec dotnet build "{}" --configuration Release --no-restore \;
+        run: dotnet build --configuration Release --no-restore
 
       - name: Run tests 
         run: dotnet test --configuration Release --no-build --verbosity normal
