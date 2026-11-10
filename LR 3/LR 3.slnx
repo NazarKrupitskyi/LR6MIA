@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="D:/ЛАБИ/МІА/LR 5/testes/TICKETTIERTEST/TicketTierTest/TicketTierTest.csproj" Id="a9f69801-1f89-486b-b99e-5374d7723d59" />
   <Project Path="EventControllerTEST/EventControllerTEST.csproj" />
   <Project Path="LR 3/LR 3.csproj" />
+  <Project Path="TICKETTIERTEST/TicketTierTest/TicketTierTest.csproj" />
 </Solution>
