@@ -17,11 +17,14 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-      - name: Restore dependencies (Автопошук)
+      - name: Restore dependencies 
         run: find . -name "*.csproj" -exec dotnet restore "{}" \;
 
-      - name: Build (Автопошук)
+      - name: Build 
         run: find . -name "*.csproj" -exec dotnet build "{}" --configuration Release --no-restore \;
+
+      - name: Run tests 
+        run: find . -name "EventControllerTEST.csproj" -exec dotnet test "{}" --configuration Release --no-build --verbosity normal \;
 
       - name: Install Railway CLI
         run: npm i -g @railway/cli
