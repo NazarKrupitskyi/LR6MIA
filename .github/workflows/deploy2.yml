@@ -24,7 +24,7 @@ jobs:
         run: find . -name "*.csproj" -exec dotnet build "{}" --configuration Release --no-restore \;
 
       - name: Run tests 
-        run: dotnet test "LR 3.slnx" --configuration Release --no-build --verbosity normal
+        run: dotnet test "LR6MIA/LR 3.sln" --configuration Release --no-build --verbosity normal
 
       - name: Install Railway CLI
         run: npm i -g @railway/cli
