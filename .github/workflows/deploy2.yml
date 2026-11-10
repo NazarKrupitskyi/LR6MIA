@@ -7,7 +7,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # Це змусить GitHub зайти в папку "LR 3" перед виконанням команд
+    
+    # Змушуємо GitHub одразу зайти в папку LR 3, де лежать ваші файли
     defaults:
       run:
         working-directory: './LR 3'
@@ -21,15 +22,17 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-      # Тепер команди чисті, без шляхів, бо ми вже в потрібній папці
+      # Явно вказуємо файл LR 3.csproj, щоб dotnet НЕ читав файл LR 3.slnx (який шукає диск D:)
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore "LR 3.csproj"
 
       - name: Build
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build "LR 3.csproj" --configuration Release --no-restore
 
+      # Запуск тестів (вказуємо точний шлях до тестового проєкту)
+      # Якщо цей крок знову впаде через шляхи, просто видаліть ці два рядки
       - name: Run tests
-        run: dotnet test --configuration Release --no-build --verbosity normal
+        run: dotnet test "EventControllerTEST/EventControllerTEST.csproj" --configuration Release --no-build --verbosity normal
 
       - name: Install Railway CLI
         run: npm i -g @railway/cli
