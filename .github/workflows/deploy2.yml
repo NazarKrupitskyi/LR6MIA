@@ -7,6 +7,12 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    
+    # Це єдине, що потрібно додати. 
+    # Всі наступні команди автоматично виконуватимуться всередині папки LR 3
+    defaults:
+      run:
+        working-directory: './LR 3'
 
     steps:
       - name: Checkout repo
