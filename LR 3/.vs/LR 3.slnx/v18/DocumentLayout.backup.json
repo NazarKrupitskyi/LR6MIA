@@ -6,6 +6,9 @@
       "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,9 +19,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D496D61-E633-40FC-53B1-2A973E1F088A}|EventControllerTEST\\EventControllerTEST.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\eventcontrollertest\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D496D61-E633-40FC-53B1-2A973E1F088A}|EventControllerTEST\\EventControllerTEST.csproj|solutionrelative:eventcontrollertest\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -232,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Test\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "LR 3\\Test\\CustomWebApplicationFactory.cs",
@@ -257,13 +257,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TicketTierTest.csproj",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeToolTip": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-05T08:07:33.316Z",
               "EditorCaption": ""
@@ -276,14 +276,14 @@
               "RelativeDocumentMoniker": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "RelativeToolTip": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T16:29:39.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventControllerTests.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\EventControllerTests.cs",
               "RelativeDocumentMoniker": "EventControllerTEST\\EventControllerTests.cs",
@@ -296,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BaseIntegrationTest.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\BaseIntegrationTest.cs",
               "RelativeDocumentMoniker": "EventControllerTEST\\BaseIntegrationTest.cs",
