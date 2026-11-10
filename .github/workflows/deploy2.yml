@@ -7,6 +7,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Це змусить GitHub зайти в папку "LR 3" перед виконанням команд
+    defaults:
+      run:
+        working-directory: './LR 3'
 
     steps:
       - name: Checkout repo
@@ -17,13 +21,14 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
+      # Тепер команди чисті, без шляхів, бо ми вже в потрібній папці
       - name: Restore dependencies
         run: dotnet restore
 
       - name: Build
         run: dotnet build --configuration Release --no-restore
 
-      - name: Run tests # Доданий крок для запуску тестів
+      - name: Run tests
         run: dotnet test --configuration Release --no-build --verbosity normal
 
       - name: Install Railway CLI
