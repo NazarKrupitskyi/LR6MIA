@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7696809C-033E-63BE-629D-01B201D6D551}|EventControllerTEST.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\eventcontrollertest\\baseintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7696809C-033E-63BE-629D-01B201D6D551}|EventControllerTEST.csproj|solutionrelative:baseintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7696809C-033E-63BE-629D-01B201D6D551}|EventControllerTEST.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\eventcontrollertest\\eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7696809C-033E-63BE-629D-01B201D6D551}|EventControllerTEST.csproj|solutionrelative:eventcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BaseIntegrationTest.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\BaseIntegrationTest.cs",
+              "RelativeDocumentMoniker": "BaseIntegrationTest.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\BaseIntegrationTest.cs",
+              "RelativeToolTip": "BaseIntegrationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T19:53:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EventControllerTests.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\EventControllerTests.cs",
               "RelativeDocumentMoniker": "EventControllerTests.cs",
