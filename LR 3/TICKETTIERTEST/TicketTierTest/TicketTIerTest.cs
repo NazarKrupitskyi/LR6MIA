@@ -41,7 +41,7 @@ namespace TicketTierTest
 
             var result = await _service.GetTicketTierStatistic(eventId);
 
-            Assert.Equal(501, result.AveragePrice); // (200 + 800) / 2 = 500    
+            Assert.Equal(500, result.AveragePrice); // (200 + 800) / 2 = 500    
             Assert.Equal(60, result.AvailableSeatsCount); // 50 + 10 = 60
             Assert.Equal("tier_2", result.MostExpensiveTierId); 
         }
