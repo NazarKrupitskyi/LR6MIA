@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A9F69801-1F89-486B-B99E-5374D7723D59}|..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\lr 5\\testes\\tickettiertest\\tickettiertest\\tickettiertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -212,7 +212,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -272,8 +272,7 @@
               "RelativeToolTip": "LR 3\\Program.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T16:53:55.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T16:53:55.928Z"
             },
             {
               "$type": "Document",
@@ -301,29 +300,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TicketTierTest.csproj",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeToolTip": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-05T08:07:33.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TicketTIerTest.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "RelativeToolTip": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwDYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDYAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T16:29:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T16:29:39.13Z"
             },
             {
               "$type": "Document",
