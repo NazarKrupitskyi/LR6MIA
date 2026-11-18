@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using LR_3.DBCommunication.Repositories.Interfaces;
 using LR_3.DTO.TicketOrder;
+using LR_3.FactoriesProccesing;
 using LR_3.Models;
 using LR_3.Services.Interface;
 
@@ -12,12 +13,14 @@ namespace LR_3.Services
         private readonly IEventRepository _eventRepo;
         private readonly ITicketTierReposetory _tierRepo;
         private readonly IMapper _mapper;
-
-        public TicketOrderService(ITicketOrderReposetory orderRepo,IEventRepository eventRepo, ITicketTierReposetory tierRepo, IMapper mapper)
-        { _orderRepo = orderRepo;
+        private readonly TicketPriceFactory _factory;
+        public TicketOrderService(ITicketOrderReposetory orderRepo,IEventRepository eventRepo, ITicketTierReposetory tierRepo, IMapper mapper, TicketPriceFactory factory)
+        {
+            _orderRepo = orderRepo;
             _eventRepo = eventRepo;
             _tierRepo = tierRepo;
             _mapper = mapper;
+            _factory = factory;
         }
 
 
@@ -53,7 +56,7 @@ namespace LR_3.Services
             return true;
         }
 
-       
+
         public async Task<TicketOrderResponseDTO> CreateOrderAsync(CreateTicketOrderDTO dto)
         {
             var ev = await _eventRepo.GetByIdAsync(dto.EventId);
@@ -71,10 +74,20 @@ namespace LR_3.Services
             tier.AvailableSeats -= dto.RequestedSeats;
             await _tierRepo.UpdateAsync(tier);
 
+
+            var calculator = _factory.GetCalculator(tier.Category);
+
+            decimal pricePerSeat = calculator.CalculateFinalPrice(tier.Price);
+
+            decimal totalOrderPrice = pricePerSeat * dto.RequestedSeats;
+
+
             var newOrder = _mapper.Map<TicketOrder>(dto);
-            newOrder.status = Status.Очікування_оплати; 
+
+            newOrder.status = Status.Очікування_оплати;
             newOrder.CreateTime = DateTime.UtcNow;
             newOrder.Tickets = new List<DigitalTicket>();
+            newOrder.TotalAmount = totalOrderPrice;
 
             await _orderRepo.CreateAsync(newOrder);
 
@@ -106,7 +119,8 @@ namespace LR_3.Services
             decimal basePrice = tier.Price * order.RequestedSeats;
 
             decimal discount = 0;
-            if (order.PromoCode == "student") discount = basePrice * 0.15m; 
+            if (order.PromoCode == "" +
+                "student") discount = basePrice * 0.15m; 
 
             order.TotalAmount = (basePrice - discount) * 1.05m;
             order.status = Status.Оплачено;

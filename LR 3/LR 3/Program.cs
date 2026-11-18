@@ -4,17 +4,19 @@ using LR_3;
 using LR_3.DBCommunication.Repositories;
 using LR_3.DBCommunication.Repositories.Interfaces;
 using LR_3.Models;
-using LR_3.TokenProccesing;
 using LR_3.Services;
+using LR_3.FactoriesProccesing;
 using LR_3.Services.Interface;
 using LR_3.Services.Interfaces;
+using LR_3.TokenProccesing;
 using LR_3.TokenProccesing.Users;
-using Microsoft.Extensions.Options;
-using MongoDB.Driver;
-using System.Text.Json.Serialization;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
+using MongoDB.Driver;
 using System.Text;
+using System.Text.Json.Serialization;
+using static LR_3.Services.StandardTicketCalculator;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDBSettings"));
@@ -52,6 +54,12 @@ builder.Services.AddSingleton<IPasswordHasher, PasswordHasher>();
 builder.Services.AddTransient<IUserReposetory, UserReposetory>();
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddScoped<ITicketOrderReposetory, TicketOrderRepository>();
+builder.Services.AddScoped<ITicketPriceService, StandardTicketCalculator>();
+builder.Services.AddScoped<ITicketPriceService, PremiumTicketCalculator>();
+builder.Services.AddScoped<ITicketPriceService, DisabledTicketCalculator>();
+
+// Реєструємо саму фабрику
+builder.Services.AddScoped<TicketPriceFactory>();
 // Add services to the container.
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddValidatorsFromAssemblyContaining<Program>();
