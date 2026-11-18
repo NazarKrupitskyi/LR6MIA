@@ -7,12 +7,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
-    # Це єдине, що потрібно додати. 
-    # Всі наступні команди автоматично виконуватимуться всередині папки LR 3
-    defaults:
-      run:
-        working-directory: './LR 3'
 
     steps:
       - name: Checkout repo
@@ -23,18 +17,23 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
+      # Додаємо робочу папку тільки для команд .NET
       - name: Restore dependencies 
+        working-directory: './LR 3'
         run: dotnet restore
 
       - name: Build 
+        working-directory: './LR 3'
         run: dotnet build --configuration Release --no-restore
 
       - name: Run tests 
+        working-directory: './LR 3'
         run: dotnet test --configuration Release --no-build --verbosity normal
 
       - name: Install Railway CLI
         run: npm i -g @railway/cli
 
+      # Railway тепер запускається з головної папки репозиторію
       - name: Deploy to Railway
         run: railway up --service ${{ secrets.RAILWAY_SERVICE_ID }} --ci
         env:
