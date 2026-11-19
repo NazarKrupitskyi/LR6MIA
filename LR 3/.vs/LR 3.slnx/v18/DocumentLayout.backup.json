@@ -261,8 +261,7 @@
               "RelativeToolTip": "LR 3\\Services\\EventReportsService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA4wA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:50:02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:50:02Z"
             },
             {
               "$type": "Document",
@@ -274,8 +273,7 @@
               "RelativeToolTip": "LR 3\\Services\\Interfaces\\IEventReportsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:49:40.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:49:40.162Z"
             },
             {
               "$type": "Document",
@@ -287,8 +285,7 @@
               "RelativeToolTip": "LR 3\\BridgeProccesing\\Abstraction\\RefinedReports.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:40:59.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:40:59.344Z"
             },
             {
               "$type": "Document",
@@ -300,8 +297,7 @@
               "RelativeToolTip": "LR 3\\BridgeProccesing\\Abstraction\\EventReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:38:46.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:38:46.433Z"
             },
             {
               "$type": "Document",
@@ -313,8 +309,7 @@
               "RelativeToolTip": "LR 3\\Services\\Interfaces\\IEventService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T09:55:53.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T09:55:53.858Z"
             },
             {
               "$type": "Document",
@@ -326,8 +321,7 @@
               "RelativeToolTip": "LR 3\\Controllers\\EventController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAkwDoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T11:11:06.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T11:11:06.475Z"
             },
             {
               "$type": "Document",
@@ -339,8 +333,7 @@
               "RelativeToolTip": "LR 3\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T16:53:55.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T16:53:55.928Z"
             },
             {
               "$type": "Document",
@@ -352,8 +345,7 @@
               "RelativeToolTip": "LR 3\\Services\\EventService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAUwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T10:04:20.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T10:04:20.029Z"
             },
             {
               "$type": "Document",
@@ -363,7 +355,7 @@
               "RelativeDocumentMoniker": "TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeToolTip": "TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-18T16:30:09.456Z",
               "EditorCaption": ""
@@ -378,8 +370,7 @@
               "RelativeToolTip": "LR 3\\BridgeProccesing\\Implementation\\IReportFormatter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:26:27.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:26:27.669Z"
             },
             {
               "$type": "Document",
@@ -391,8 +382,7 @@
               "RelativeToolTip": "LR 3\\BridgeProccesing\\Implementation\\ReportFormatters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T17:34:52.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T17:34:52.742Z"
             },
             {
               "$type": "Document",
@@ -404,8 +394,7 @@
               "RelativeToolTip": "LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T16:47:12.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T16:47:12.542Z"
             },
             {
               "$type": "Document",
