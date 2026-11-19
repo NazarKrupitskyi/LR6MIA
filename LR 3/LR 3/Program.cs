@@ -61,7 +61,7 @@ builder.Services.AddScoped<ITicketPriceService, DisabledTicketCalculator>();
 builder.Services.AddScoped<CsvReportFormatter>();
 builder.Services.AddScoped<JsonReportFormatter>();
 builder.Services.AddScoped<PlainTextReportFormatter>();
-builder.Services.AddScoped<EventReportsService>();
+builder.Services.AddScoped<IEventReportsService, EventReportsService>();
 // Реєструємо саму фабрику
 builder.Services.AddScoped<TicketPriceFactory>();
 // Add services to the container.

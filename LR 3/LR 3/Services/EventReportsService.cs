@@ -2,10 +2,11 @@
 using LR_3.BridgeProccesing.Implementation;
 using LR_3.DBCommunication.Repositories.Interfaces;
 using LR_3.Models;
+using LR_3.Services.Interfaces;
 
 namespace LR_3.Services
 {
-    public class EventReportsService
+    public class EventReportsService : IEventReportsService
     {
         private readonly IEventRepository _eventRepo;
         private readonly ITicketOrderReposetory _orderRepo;
