@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\ЛР3\LR6MIA\LR 3\LR 3\LR 3.csproj" />
-    <ProjectReference Include="..\..\LR 3\LR 3.csproj" />
+    <ProjectReference Include="D:\ЛАБИ\МІА\ЛР3\LR6MIA\LR 3\LR 3\LR 3.csproj" />
+    <ProjectReference Include="D:\ЛАБИ\МІА\ЛР3\LR6MIA\LR 3\LR 3\LR 3.csproj" />
   </ItemGroup>
 
   <ItemGroup>

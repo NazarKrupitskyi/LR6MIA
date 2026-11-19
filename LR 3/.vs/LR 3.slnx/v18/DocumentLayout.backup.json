@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C85078D-6F09-44E2-2390-8E8F61CF46AB}|TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C85078D-6F09-44E2-2390-8E8F61CF46AB}|TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|solutionrelative:tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\lr 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\lr 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\eventreportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\eventreportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\ticketorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\ticketorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\bridgeproccesing\\abstraction\\refinedreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\bridgeproccesing\\abstraction\\refinedreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\ieventreportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\ieventreportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\bridgeproccesing\\abstraction\\eventreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\bridgeproccesing\\abstraction\\eventreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\bridgeproccesing\\implementation\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\bridgeproccesing\\implementation\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\bridgeproccesing\\implementation\\reportformatters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\bridgeproccesing\\implementation\\reportformatters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\factoriesproccesing\\ticketpricefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\factoriesproccesing\\ticketpricefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\iticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\iticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\itickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\itickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\ticketorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\ticketorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\ticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\ticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\tickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\tickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C85078D-6F09-44E2-2390-8E8F61CF46AB}|TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7C85078D-6F09-44E2-2390-8E8F61CF46AB}|TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj|solutionrelative:tickettiertest\\tickettiertest\\tickettiertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\iticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\iticketpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\models\\tickettier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\models\\tickettier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\tickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\tickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\itickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\itickettierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\lr 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\lr 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\models\\ticketorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,24 +110,12 @@
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\dbcommunication\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\dbcommunication\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\test\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\test\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|solutionrelative:lr 3\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EC52034-6511-A4EB-849C-FA397200F397}|LR 3\\LR 3.csproj|d:\\\u043B\u0430\u0431\u0438\\\u043C\u0456\u0430\\\u043B\u04403\\lr6mia\\lr 3\\lr 3\\dto\\tickettier\\ticketstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -228,90 +252,212 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventReportsService.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventReportsService.cs",
+              "RelativeDocumentMoniker": "LR 3\\Services\\EventReportsService.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventReportsService.cs",
+              "RelativeToolTip": "LR 3\\Services\\EventReportsService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:50:02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketPriceFactory.cs",
-              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
-              "RelativeDocumentMoniker": "LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
-              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
-              "RelativeToolTip": "LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IEventReportsService.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventReportsService.cs",
+              "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\IEventReportsService.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventReportsService.cs",
+              "RelativeToolTip": "LR 3\\Services\\Interfaces\\IEventReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T16:47:12.542Z",
+              "WhenOpened": "2026-11-19T17:49:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefinedReports.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Abstraction\\RefinedReports.cs",
+              "RelativeDocumentMoniker": "LR 3\\BridgeProccesing\\Abstraction\\RefinedReports.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Abstraction\\RefinedReports.cs",
+              "RelativeToolTip": "LR 3\\BridgeProccesing\\Abstraction\\RefinedReports.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:40:59.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TicketTierTest",
+              "Title": "EventReport.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Abstraction\\EventReport.cs",
+              "RelativeDocumentMoniker": "LR 3\\BridgeProccesing\\Abstraction\\EventReport.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Abstraction\\EventReport.cs",
+              "RelativeToolTip": "LR 3\\BridgeProccesing\\Abstraction\\EventReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:38:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "LR 3\\Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:55:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "LR 3\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\EventController.cs",
+              "RelativeToolTip": "LR 3\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T11:11:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Program.cs",
+              "RelativeDocumentMoniker": "LR 3\\Program.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Program.cs",
+              "RelativeToolTip": "LR 3\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:53:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "LR 3\\Services\\EventService.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventService.cs",
+              "RelativeToolTip": "LR 3\\Services\\EventService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:04:20.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketTierTest.csproj",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeDocumentMoniker": "TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
               "RelativeToolTip": "TICKETTIERTEST\\TicketTierTest\\TicketTierTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-18T16:30:09.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Implementation\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "LR 3\\BridgeProccesing\\Implementation\\IReportFormatter.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Implementation\\IReportFormatter.cs",
+              "RelativeToolTip": "LR 3\\BridgeProccesing\\Implementation\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:26:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportFormatters.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Implementation\\ReportFormatters.cs",
+              "RelativeDocumentMoniker": "LR 3\\BridgeProccesing\\Implementation\\ReportFormatters.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\BridgeProccesing\\Implementation\\ReportFormatters.cs",
+              "RelativeToolTip": "LR 3\\BridgeProccesing\\Implementation\\ReportFormatters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:34:52.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketPriceFactory.cs",
+              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
+              "RelativeDocumentMoniker": "LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
+              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
+              "RelativeToolTip": "LR 3\\FactoriesProccesing\\TicketPriceFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T16:47:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "TicketPriceService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketPriceService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\TicketPriceService.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketPriceService.cs",
               "RelativeToolTip": "LR 3\\Services\\TicketPriceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T16:04:26.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T16:04:26.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "TicketOrderService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketOrderService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\TicketOrderService.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketOrderService.cs",
               "RelativeToolTip": "LR 3\\Services\\TicketOrderService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T14:04:13.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T14:04:13.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "TicketTierService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketTierService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\TicketTierService.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\TicketTierService.cs",
               "RelativeToolTip": "LR 3\\Services\\TicketTierService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAwEwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T10:30:21.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T10:30:21.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "ITicketPriceService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\ITicketPriceService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\ITicketPriceService.cs",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\ITicketPriceService.cs",
               "RelativeToolTip": "LR 3\\Services\\Interfaces\\ITicketPriceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:53:22.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-18T15:53:22.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "ITicketTierService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\ITicketTierService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\ITicketTierService.cs",
@@ -319,26 +465,12 @@
               "RelativeToolTip": "LR 3\\Services\\Interfaces\\ITicketTierService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T10:03:00.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T10:03:00.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Program.cs",
-              "RelativeDocumentMoniker": "LR 3\\Program.cs",
-              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Program.cs",
-              "RelativeToolTip": "LR 3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T16:53:55.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LR 3",
+              "DocumentIndex": 18,
+              "Title": "LR 3.csproj",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\LR 3.csproj",
               "RelativeDocumentMoniker": "LR 3\\LR 3.csproj",
               "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\LR 3.csproj",
@@ -350,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "TicketTier.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Models\\TicketTier.cs",
               "RelativeDocumentMoniker": "LR 3\\Models\\TicketTier.cs",
@@ -358,12 +490,11 @@
               "RelativeToolTip": "LR 3\\Models\\TicketTier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T07:36:38.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T07:36:38.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "TicketOrder.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Models\\TicketOrder.cs",
               "RelativeDocumentMoniker": "LR 3\\Models\\TicketOrder.cs",
@@ -371,12 +502,11 @@
               "RelativeToolTip": "LR 3\\Models\\TicketOrder.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T07:36:25.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T07:36:25.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "TicketTIerTest.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "RelativeDocumentMoniker": "TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
@@ -384,12 +514,11 @@
               "RelativeToolTip": "TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T21:17:53.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T21:17:53.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "BaseIntegrationTest.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\BaseIntegrationTest.cs",
               "RelativeDocumentMoniker": "EventControllerTEST\\BaseIntegrationTest.cs",
@@ -401,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "EventControllerTests.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\EventControllerTEST\\EventControllerTests.cs",
               "RelativeDocumentMoniker": "EventControllerTEST\\EventControllerTests.cs",
@@ -413,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "TicketTIerTest.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\LR 5\\testes\\TICKETTIERTEST\\TicketTierTest\\TicketTIerTest.cs",
@@ -424,19 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "LR 3\\Controllers\\EventController.cs",
-              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\EventController.cs",
-              "RelativeToolTip": "LR 3\\Controllers\\EventController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwGgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T11:11:06.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Test\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "LR 3\\Test\\CustomWebApplicationFactory.cs",
@@ -448,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "TestAuthHandler.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Test\\TestAuthHandler.cs",
               "RelativeDocumentMoniker": "LR 3\\Test\\TestAuthHandler.cs",
@@ -460,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "DatabaseSeeder.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Test\\DatabaseSeeder.cs",
               "RelativeDocumentMoniker": "LR 3\\Test\\DatabaseSeeder.cs",
@@ -472,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "EventRepository.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DBCommunication\\Repositories\\EventRepository.cs",
               "RelativeDocumentMoniker": "LR 3\\DBCommunication\\Repositories\\EventRepository.cs",
@@ -484,19 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EventService.cs",
-              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventService.cs",
-              "RelativeDocumentMoniker": "LR 3\\Services\\EventService.cs",
-              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\EventService.cs",
-              "RelativeToolTip": "LR 3\\Services\\EventService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T10:04:20.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\appsettings.json",
               "RelativeDocumentMoniker": "LR 3\\appsettings.json",
@@ -508,19 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IEventService.cs",
-              "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventService.cs",
-              "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\IEventService.cs",
-              "ToolTip": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\IEventService.cs",
-              "RelativeToolTip": "LR 3\\Services\\Interfaces\\IEventService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T09:55:53.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "TicketStatisticDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DTO\\TicketTier\\TicketStatisticDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\DTO\\TicketTier\\TicketStatisticDTO.cs",
@@ -532,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "RoleFlags.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\RoleFlags.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\RoleFlags.cs",
@@ -544,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "TicketTierRepository.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DBCommunication\\Repositories\\TicketTierRepository.cs",
               "RelativeDocumentMoniker": "LR 3\\DBCommunication\\Repositories\\TicketTierRepository.cs",
@@ -556,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserService.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserService.cs",
@@ -568,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\User.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\User.cs",
@@ -580,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "TicketOrderResponseDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DTO\\TicketOrder\\TicketOrderResponseDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\DTO\\TicketOrder\\TicketOrderResponseDTO.cs",
@@ -592,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ITicketTierReposetory.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DBCommunication\\Repositories\\Interfaces\\ITicketTierReposetory.cs",
               "RelativeDocumentMoniker": "LR 3\\DBCommunication\\Repositories\\Interfaces\\ITicketTierReposetory.cs",
@@ -604,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "AuthorisationController.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\AuthorisationController.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\AuthorisationController.cs",
@@ -616,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "JWTTokenGenerator.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\JWTTokenGenerator.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\JWTTokenGenerator.cs",
@@ -628,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "TicketOrderRepository.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DBCommunication\\Repositories\\TicketOrderRepository.cs",
               "RelativeDocumentMoniker": "LR 3\\DBCommunication\\Repositories\\TicketOrderRepository.cs",
@@ -640,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Models\\Event.cs",
               "RelativeDocumentMoniker": "LR 3\\Models\\Event.cs",
@@ -652,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserProfile.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserProfile.cs",
@@ -664,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "CreateEventDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DTO\\Event\\CreateEventDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\DTO\\Event\\CreateEventDTO.cs",
@@ -676,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "TicketTierController.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\TicketTierController.cs",
               "RelativeDocumentMoniker": "LR 3\\Controllers\\TicketTierController.cs",
@@ -688,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "UserDocument.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserDocument.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserDocument.cs",
@@ -700,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "UserReposetory.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserReposetory.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserReposetory.cs",
@@ -712,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "UserRoleController.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserRoleController.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserRoleController.cs",
@@ -724,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "PassworHasher.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\PassworHasher.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\PassworHasher.cs",
@@ -736,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "TicketTierProfile.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Mapping\\TicketTierProfile.cs",
               "RelativeDocumentMoniker": "LR 3\\Mapping\\TicketTierProfile.cs",
@@ -748,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "TicketOrderProfile.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Mapping\\TicketOrderProfile.cs",
               "RelativeDocumentMoniker": "LR 3\\Mapping\\TicketOrderProfile.cs",
@@ -760,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "EventProfile.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Mapping\\EventProfile.cs",
               "RelativeDocumentMoniker": "LR 3\\Mapping\\EventProfile.cs",
@@ -772,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "TickerOrderController.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Controllers\\TickerOrderController.cs",
               "RelativeDocumentMoniker": "LR 3\\Controllers\\TickerOrderController.cs",
@@ -784,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "ITicketOrderService.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Services\\Interfaces\\ITicketOrderService.cs",
               "RelativeDocumentMoniker": "LR 3\\Services\\Interfaces\\ITicketOrderService.cs",
@@ -796,7 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "UserResponseDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UserResponseDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UserResponseDTO.cs",
@@ -808,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "LoginUserDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\LoginUserDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\LoginUserDTO.cs",
@@ -820,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "CreateUserDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\CreateUserDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\CreateUserDTO.cs",
@@ -832,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Tokens\u0026Auth\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Tokens\u0026Auth\\LoginResponseDTO.cs",
@@ -844,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "UpdateUserDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\TokenProccesing\\Users\\UpdateUserDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\TokenProccesing\\Users\\UpdateUserDTO.cs",
@@ -856,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "EventResponseDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DTO\\Event\\EventResponseDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\DTO\\Event\\EventResponseDTO.cs",
@@ -868,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "TicketTierResponseDTO.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\DTO\\TicketTier\\TicketTierResponseDTO.cs",
               "RelativeDocumentMoniker": "LR 3\\DTO\\TicketTier\\TicketTierResponseDTO.cs",
@@ -880,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "EventDTOValidators.cs",
               "DocumentMoniker": "D:\\\u041B\u0410\u0411\u0418\\\u041C\u0406\u0410\\\u041B\u04203\\LR6MIA\\LR 3\\LR 3\\Validators\\EventDTOValidators.cs",
               "RelativeDocumentMoniker": "LR 3\\Validators\\EventDTOValidators.cs",
@@ -889,6 +982,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T11:09:49.021Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

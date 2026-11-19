@@ -28,10 +28,12 @@ namespace LR_3.Controllers
     public class EventController : ControllerBase
     {
         private readonly IEventService _eventService;
+        private readonly IEventReportsService _eventReport;
 
-        public EventController(IEventService eventService)
+        public EventController(IEventService eventService, IEventReportsService eventReport)
         {
             _eventService = eventService;
+            _eventReport = eventReport;
         }
 
         [HttpGet]
@@ -51,6 +53,12 @@ namespace LR_3.Controllers
 
             return Ok(eventDto);
         }
+        [HttpGet("{eventId}/report")]
+        public async Task<IActionResult> GetEventReport(string eventId,[FromQuery] string reportType = "short",[FromQuery] string format = "txt")
+            {
+                var result = await _eventReport.BuildEventReportAsync(eventId, reportType, format);
+                return Ok(result);
+            }
         [Authorize]
         [HttpPost]
         public async Task<ActionResult<EventResponseDto>> Create([FromBody] CreateEventDTO dto)

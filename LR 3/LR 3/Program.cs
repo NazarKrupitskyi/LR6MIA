@@ -1,11 +1,12 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using LR_3;
+using LR_3.BridgeProccesing.Implementation;
 using LR_3.DBCommunication.Repositories;
 using LR_3.DBCommunication.Repositories.Interfaces;
+using LR_3.FactoriesProccesing;
 using LR_3.Models;
 using LR_3.Services;
-using LR_3.FactoriesProccesing;
 using LR_3.Services.Interface;
 using LR_3.Services.Interfaces;
 using LR_3.TokenProccesing;
@@ -57,7 +58,10 @@ builder.Services.AddScoped<ITicketOrderReposetory, TicketOrderRepository>();
 builder.Services.AddScoped<ITicketPriceService, StandardTicketCalculator>();
 builder.Services.AddScoped<ITicketPriceService, PremiumTicketCalculator>();
 builder.Services.AddScoped<ITicketPriceService, DisabledTicketCalculator>();
-
+builder.Services.AddScoped<CsvReportFormatter>();
+builder.Services.AddScoped<JsonReportFormatter>();
+builder.Services.AddScoped<PlainTextReportFormatter>();
+builder.Services.AddScoped<EventReportsService>();
 // Реєструємо саму фабрику
 builder.Services.AddScoped<TicketPriceFactory>();
 // Add services to the container.
